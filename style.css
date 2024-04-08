@@ -1,0 +1,35 @@
+body {
+    background-color: #DEB887;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+}
+h3 {
+  color: #2F4F4F;
+}
+label {
+    display: block;
+    margin-bottom: 1px;
+}
+
+input[type="text"], input[type="number"], select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #cc868a;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
