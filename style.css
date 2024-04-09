@@ -1,11 +1,11 @@
 body {
-    background-color: #DEB887;
+    background-color: #556B2F;
     font-family: Arial, sans-serif;
     margin: 20px;
     
 }
 h3 {
-  color: #2F4F4F;
+  color: #8B0000;
 }
 label {
     display: block;
@@ -22,7 +22,7 @@ input[type="text"], input[type="number"], select {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #8B008B;
     color: white;
     padding: 10px 20px;
     border: none;
