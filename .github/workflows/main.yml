@@ -1,4 +1,4 @@
-name: Upload Website
+name: Upload Static Website
 
 on:
   push:
